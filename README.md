@@ -11,5 +11,6 @@ This repository contains my implementation of the receipt processing web service
 6. To retrieve the points for a receipt, use the below endpoint:
      GET /receipts/{id}/points
 7. A small Postman collection is included in the testing folder that stores the most recently generated id from the POST request to make it a little easier to test with.
-8. 
+
+Please feel free to email me at btouts2000@gmail.com if you have any questions, thank you!
    
